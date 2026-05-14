@@ -31,3 +31,4 @@ CLI feature 30 added
 CLI feature 31 added
 CLI feature 32 added
 CLI feature 33 added
+CLI feature 34 added
