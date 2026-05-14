@@ -85,3 +85,4 @@ CLI feature 84 added
 CLI feature 85 added
 CLI feature 86 added
 CLI feature 87 added
+CLI feature 88 added
