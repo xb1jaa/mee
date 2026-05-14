@@ -76,3 +76,4 @@ CLI feature 75 added
 CLI feature 76 added
 CLI feature 77 added
 CLI feature 78 added
+CLI feature 79 added
