@@ -45,3 +45,4 @@ CLI feature 44 added
 CLI feature 45 added
 CLI feature 46 added
 CLI feature 47 added
+CLI feature 48 added
