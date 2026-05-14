@@ -47,3 +47,4 @@ CLI feature 46 added
 CLI feature 47 added
 CLI feature 48 added
 CLI feature 49 added
+CLI feature 50 added
