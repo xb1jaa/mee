@@ -37,3 +37,4 @@ CLI feature 36 added
 CLI feature 37 added
 CLI feature 38 added
 CLI feature 39 added
+CLI feature 40 added
