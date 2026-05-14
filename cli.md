@@ -41,3 +41,4 @@ CLI feature 40 added
 CLI feature 41 added
 CLI feature 42 added
 CLI feature 43 added
+CLI feature 44 added
