@@ -49,3 +49,4 @@ CLI feature 48 added
 CLI feature 49 added
 CLI feature 50 added
 CLI feature 51 added
+CLI feature 52 added
