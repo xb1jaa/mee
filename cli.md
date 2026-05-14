@@ -97,3 +97,4 @@ CLI feature 96 added
 CLI feature 97 added
 CLI feature 98 added
 CLI feature 99 added
+CLI feature 100 added
