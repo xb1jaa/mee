@@ -68,3 +68,4 @@ CLI feature 67 added
 CLI feature 68 added
 CLI feature 69 added
 CLI feature 70 added
+CLI feature 71 added
