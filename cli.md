@@ -103,3 +103,4 @@ CLI feature 102 added
 CLI feature 103 added
 CLI feature 104 added
 CLI feature 105 added
+CLI feature 106 added
