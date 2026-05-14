@@ -55,3 +55,4 @@ CLI feature 54 added
 CLI feature 55 added
 CLI feature 56 added
 CLI feature 57 added
+CLI feature 58 added
