@@ -7,3 +7,4 @@ CLI feature 6 added
 CLI feature 7 added
 CLI feature 8 added
 CLI feature 9 added
+CLI feature 10 added
