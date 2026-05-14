@@ -92,3 +92,4 @@ CLI feature 91 added
 CLI feature 92 added
 CLI feature 93 added
 CLI feature 94 added
+CLI feature 95 added
