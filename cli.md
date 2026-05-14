@@ -58,3 +58,4 @@ CLI feature 57 added
 CLI feature 58 added
 CLI feature 59 added
 CLI feature 60 added
+CLI feature 61 added
