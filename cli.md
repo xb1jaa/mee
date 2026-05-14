@@ -9,3 +9,4 @@ CLI feature 8 added
 CLI feature 9 added
 CLI feature 10 added
 CLI feature 11 added
+CLI feature 12 added
