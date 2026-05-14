@@ -21,3 +21,4 @@ CLI feature 20 added
 CLI feature 21 added
 CLI feature 22 added
 CLI feature 23 added
+CLI feature 24 added
